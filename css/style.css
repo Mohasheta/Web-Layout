@@ -1,0 +1,222 @@
+/*Global Css*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+.container{
+   width:1140px;
+   margin:auto;
+}
+.section{
+    padding:50px 0px;
+}
+.underline{
+    border-top: 5px solid #00000036;
+    margin: 20px auto;
+    width: 7%;
+
+}
+/*Header section start*/
+header{
+    background-color: #8B599E;
+    color:#fff;
+    width:100%;
+    float: left;
+}
+/*Navigation*/
+nav{
+  width: 100%;
+  float:left;
+  padding:20px;
+}
+
+.logo-part{
+    width:20%;
+    float: left;
+}
+.menu-part{
+    width:80%;
+    float: left;
+}
+.menu-part ul{
+    margin: 20px 0px;
+    text-align:right;
+
+}
+.menu-part li{
+    display: inline-block;
+    margin:0px 20px;
+
+}
+.menu-part a{
+    text-decoration: none;
+    font-size: 20px;
+    font-weight:600;
+    color:#fff;
+
+
+}
+.hero-writing-part{
+    width:100%;
+    float: left;
+    text-align: center;
+
+} 
+.hero-writing-part h1{
+    font-size:30px;
+    width:90%;
+    margin:100px auto 20px;
+
+}
+.hero-writing-part a button{
+    background: orange;
+    margin-bottom: 20px;
+    padding:10px 20px;
+    color:#fff;
+    border:none;
+    
+
+}
+
+/*Header section end*/
+
+/*Service section start*/
+#service{
+    width: 100%;
+    float:left;
+    text-align: center;
+    background-color:#17C2A4 ;
+    color:#fff;
+    margin-bottom: auto;
+
+}
+.service-writing-part{
+    margin-bottom: 80px;
+
+}
+.service-writing-part h2{
+    text-transform: uppercase;
+    font-size: 40px;
+
+}
+.service-writing-part p{
+
+}
+
+.feature-part{
+    width:23%;
+    margin:0px 1%;
+    float:left;
+    padding:20px;
+
+}
+.feature-part img{
+
+}
+.feature-part h3{
+    font-size:21px;
+    margin: 20px 0px;
+
+}
+.feature=part p{
+    font-size:14px;
+
+}
+/*Service section End*/
+.cstm-fb{
+    font-size: 20px;
+    background: navy;
+    padding:20px;
+    border-radius: 50%;
+}
+/*Team Section Start*/
+#Team{
+    width: 100%;
+    float:left;
+    text-align: center;
+    background-color:#6e7274 ;
+    color:#fff;
+
+}
+.Team-writing-part{
+    margin-bottom: 80px;
+
+}
+.Team-writing-part h2{
+    text-transform: uppercase;
+    font-size: 40px;
+
+}
+.Team-writing-part p{
+    float: left;
+
+}
+
+.feature-part{
+    width:23%;
+    margin:0px 1%;
+    float:left;
+    padding:20px;
+
+}
+feature-part img{
+    width:25%;
+    float:left;
+    margin: 0px 1%;
+
+}
+.feature-part h3{
+    font-size:21px;
+    margin: 20px 0px;
+
+}
+.feature=part p{
+    font-size:14px;
+/*Team Section end*/
+/*
+#contact{
+    width:100%;
+    float:left;
+    background-color: rgb(2, 2, 61);
+    color:#fff;
+}
+form{
+    width: 100%;
+    float: left;
+}
+.form-1st {
+    width:100%;
+    float:left;
+    text-align:center;
+
+}
+input{
+    width: 49%;
+    float: left;
+}
+input[type="text"]{
+    margin-right: 1%;
+}
+input[type="email"]{
+    margin-left: 1%;
+}
+.form-2nd{
+    width:100%;
+    float: left;
+    text-align:center;
+}
+input[type="submit"]{
+    width:30%;
+    
+}
+input::placeholder{
+    color:#17C1a3;
+}
+textarea{
+    width:100%;
+    margin-top: 20px;
+    padding: 10px;
+}
+*/
